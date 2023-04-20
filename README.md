@@ -3,4 +3,4 @@
 Environment used for competitive programming
 
 ./build compiles the program
-./run with build and compile the program
+./run builds and runs the program
