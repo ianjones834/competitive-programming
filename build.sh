@@ -1,4 +1,4 @@
 #! /bin/bash
 source .filepath.sh
 
-/bin/g++ -Wall -std=c++11 "${cppFilePath}/main.cpp" -o ./src/a.out
+/bin/g++ -Wall -std=c++11 -O2 "${cppFilePath}/main.cpp" -o ./src/main
